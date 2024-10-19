@@ -19,7 +19,7 @@ We'll then set up a CI-based analysis and import code coverage information into 
 
 Useful link: https://docs.sonarcloud.io/
 
-## Getting started
+## Getting started - Sonar
 
 - Fork this repository.
 - A basic workflow which will act as our CI already exists in `.github/workflows/python-app.yml`. It is disabled by default. Go to `Actions` and enable GitHub Actions to activate it.
